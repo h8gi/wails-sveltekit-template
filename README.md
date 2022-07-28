@@ -15,7 +15,7 @@ go install github.com/wailsapp/wails/v2/cmd/wails@latest
 ### Creating a Project
 
 ```sh
-wails init -n test -t https://github.com/h8gi/wails-sveltekit
+wails init -n YOUR_PROJECT_NAME -t https://github.com/h8gi/wails-sveltekit
 ```
 
 ## Live Development
