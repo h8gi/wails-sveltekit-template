@@ -2,7 +2,7 @@
 
 ## About
 
-This is the official Wails Svelte-TS template.
+This is the Wails SvelteKit template.
 
 ## Live Development
 

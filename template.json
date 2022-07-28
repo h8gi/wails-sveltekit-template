@@ -1,0 +1,7 @@
+{
+  "name": "SvelteKit",
+  "shortname": "wails-sveltekit",
+  "author": "h8gi",
+  "description": "SvelteKit template with TS",
+  "helpurl": "https://github.com/h8gi/wails-sveltekit"
+}

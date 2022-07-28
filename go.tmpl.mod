@@ -2,7 +2,7 @@ module changeme
 
 go 1.17
 
-require github.com/wailsapp/wails/v2 v2.0.0-beta.42
+require github.com/wailsapp/wails/v2 {{.WailsVersion}}
 
 require (
 	github.com/bep/debounce v1.2.1 // indirect
@@ -29,4 +29,4 @@ require (
 	golang.org/x/text v0.3.7 // indirect
 )
 
-// replace github.com/wailsapp/wails/v2 v2.0.0-beta.42 => /Users/yagi/go/pkg/mod/github.com/wailsapp/wails/v2@v2.0.0-beta.42
+// replace github.com/wailsapp/wails/v2 {{.WailsVersion}} => {{.WailsDirectory}}
