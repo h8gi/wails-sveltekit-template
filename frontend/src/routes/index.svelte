@@ -26,3 +26,7 @@
     {/await}
   {/if}
 </div>
+
+<div>
+  <a href="/about">About</a>
+</div>
