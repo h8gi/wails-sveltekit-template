@@ -6,6 +6,10 @@ This is the Wails SvelteKit template.
 
 ## Getting Started
 
+### Installing pnpm
+
+https://pnpm.io/installation
+
 ### Installing Wails
 
 ```sh
