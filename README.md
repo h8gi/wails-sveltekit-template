@@ -3,6 +3,7 @@
 ## About
 
 This is the Wails SvelteKit template.
+This template uses [adapter-static(SPA)](https://github.com/sveltejs/kit/tree/master/packages/adapter-static#spa-mode) to make generated files embeddable.
 
 ## Getting Started
 
