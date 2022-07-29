@@ -23,6 +23,9 @@ go install github.com/wailsapp/wails/v2/cmd/wails@latest
 wails init -n YOUR_PROJECT_NAME -t https://github.com/h8gi/wails-sveltekit
 ```
 
+`wailsjs` modules is located in `/frontend/src/lib` so that you can call them like `$lib/wailsjs/go/main/App` in svelte files.
+
+
 ## Live Development
 
 To run in live development mode, run `wails dev` in the project directory. In another terminal, go into the `frontend`
