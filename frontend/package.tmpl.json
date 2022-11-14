@@ -2,7 +2,7 @@
   "name": "{{.ProjectName}}",
   "version": "0.0.0",
   "type": "module",
-  "auhtor": "{{.AuthorName}}",
+  "author": "{{.AuthorName}}",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
